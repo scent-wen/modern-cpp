@@ -1,7 +1,8 @@
-#include "matetemplate_test.h"
+#include "matetemplate.h"
 
 #include <iostream>
 #include <chrono>
+using namespace std;
 
 void mate_template_test()
 {

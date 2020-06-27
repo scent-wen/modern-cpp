@@ -1,4 +1,4 @@
-template <size_t n>
+template <std::size_t n>
 class Fibonacci
 {
 public:
