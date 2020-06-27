@@ -1,2 +1,4 @@
 cmake_minimum_required(VERSION 3.0)
-project()
+project(template)
+
+add_executable(template_test matetemplate_test.cc)
